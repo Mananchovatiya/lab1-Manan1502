@@ -9,7 +9,7 @@ db.students.insertOne({
 });
 
 db.students.insertOne({
-    name : "Neel Mandanka", 
+    name : "Neel Mandanka",  
     department : "EC", 
     semester : 5, 
 }); 
