@@ -95,4 +95,4 @@ db.students.insertOne({
 db.students.insertOne({ 
     name: "Dhruvi", 
     enroll: 103 
-});
+}); 
