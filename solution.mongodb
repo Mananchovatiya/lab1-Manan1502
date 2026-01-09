@@ -16,7 +16,7 @@ db.students.insertOne({
 
 /*---Exercise 2: Insert Document with Multiple Fields---*/
 
-db.students.insertOne({
+db.students.insertOne({ 
     name: "Deep Davra",
     department: "IT",
     semester: 5,
