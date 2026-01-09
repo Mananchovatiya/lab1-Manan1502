@@ -12,7 +12,7 @@ db.students.insertOne({
     name : "Neel Mandanka", 
     department : "EC", 
     semester : 5, 
-});
+}); 
 
 /*---Exercise 2: Insert Document with Multiple Fields---*/
 
